@@ -21,6 +21,6 @@ dependencies {
 For SHA1:
 KeySignatures.getSHA1(mContext);
 
-For SHA1:
+For MD5:
 KeySignatures.getMD5(mContext);
  
